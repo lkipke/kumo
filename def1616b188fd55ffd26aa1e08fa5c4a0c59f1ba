@@ -1,0 +1,23 @@
+packages/kumo/src/components/chart/TimeseriesChart.tsx
+  a55f47c0fd75566a 165,167,398-407,410
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "def1616b188fd55ffd26aa1e08fa5c4a0c59f1ba",
+  "prompts": {
+    "a55f47c0fd75566a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_2408acfe5ffesPvHw2nDzsp60o",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "Levi Kipke",
+      "messages": [],
+      "total_additions": 13,
+      "total_deletions": 20,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    }
+  }
+}
