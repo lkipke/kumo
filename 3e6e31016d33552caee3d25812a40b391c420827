@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "3e6e31016d33552caee3d25812a40b391c420827",
+  "prompts": {
+    "a55f47c0fd75566a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_2408acfe5ffesPvHw2nDzsp60o",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "Levi Kipke",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 20,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
